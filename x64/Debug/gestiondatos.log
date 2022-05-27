@@ -1,0 +1,592 @@
+﻿  accesorios.cpp
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(551,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(550,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(546,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(545,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  cliente.cpp
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(417,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(416,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,76): warning C4101: 'NIT': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,47): warning C4101: 'direccion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,11): warning C4101: 'nombres': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,62): warning C4101: 'telefono': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,28): warning C4101: 'apellidos': variable local sin referencia
+  cocina.cpp
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(535,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(534,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(530,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(529,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  consulta.cpp
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(538,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(537,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(533,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(532,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(535,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(534,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(530,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(529,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(535,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(534,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(530,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(529,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(551,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(550,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(546,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(545,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(534,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(533,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(529,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(528,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(417,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(416,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,76): warning C4101: 'NIT': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,47): warning C4101: 'direccion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,11): warning C4101: 'nombres': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,62): warning C4101: 'telefono': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,28): warning C4101: 'apellidos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\validacion.h(514,28): warning C4101: 'contraseña': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\validacion.h(514,12): warning C4101: 'correo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(851,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(848,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(870,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(869,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(866,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(865,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(863,44): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,26): warning C4101: 'cod_producto01': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,11): warning C4101: 'categoria': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(842,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(839,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(902,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(901,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(898,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(897,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(895,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,11): warning C4101: 'categoria': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,26): warning C4101: 'cod_producto02': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1025,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1024,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1021,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1020,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1018,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,26): warning C4101: 'cod_producto01': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,11): warning C4101: 'categoria': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1136,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1133,42): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(808,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(805,42): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(868,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(867,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(864,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(863,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(861,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,11): warning C4101: 'categoria': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,26): warning C4101: 'cod_producto03': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(808,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(805,42): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(868,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(867,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(864,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(863,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(861,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,26): warning C4101: 'cod_producto04': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,11): warning C4101: 'categoria': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(802,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(799,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(862,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(861,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(858,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(857,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(855,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,26): warning C4101: 'cod_producto05': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,11): warning C4101: 'categoria': variable local sin referencia
+  crear.cpp
+  electronicos.cpp
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(538,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(537,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(533,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(532,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  herramientas.cpp
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(534,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(533,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(529,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(528,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  hogar.cpp
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(535,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(534,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(530,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(529,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  inicio.cpp
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(538,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(537,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(533,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(532,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(535,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(534,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(530,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(529,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(535,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(534,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(530,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(529,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(551,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(550,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(546,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(545,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(534,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(533,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(529,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(528,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(417,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(416,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,76): warning C4101: 'NIT': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,47): warning C4101: 'direccion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,11): warning C4101: 'nombres': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,62): warning C4101: 'telefono': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,28): warning C4101: 'apellidos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\validacion.h(514,28): warning C4101: 'contraseña': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\validacion.h(514,12): warning C4101: 'correo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(851,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(848,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(870,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(869,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(866,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(865,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(863,44): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,26): warning C4101: 'cod_producto01': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,11): warning C4101: 'categoria': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(842,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(839,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(902,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(901,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(898,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(897,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(895,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,11): warning C4101: 'categoria': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,26): warning C4101: 'cod_producto02': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1025,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1024,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1021,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1020,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1018,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,26): warning C4101: 'cod_producto01': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,11): warning C4101: 'categoria': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1136,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1133,42): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(808,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(805,42): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(868,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(867,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(864,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(863,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(861,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,11): warning C4101: 'categoria': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,26): warning C4101: 'cod_producto03': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(808,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(805,42): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(868,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(867,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(864,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(863,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(861,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,26): warning C4101: 'cod_producto04': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,11): warning C4101: 'categoria': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(802,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(799,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(862,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(861,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(858,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(857,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(855,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,26): warning C4101: 'cod_producto05': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,11): warning C4101: 'categoria': variable local sin referencia
+  sesion.cpp
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(451,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(538,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(537,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(533,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\electronicos.h(532,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(449,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(535,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(534,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(530,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\hogar.h(529,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(450,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(535,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(534,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(530,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cocina.h(529,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(464,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(551,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(550,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(546,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\accesorios.h(545,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,61): warning C4101: 'modelo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,25): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,7): warning C4101: 'cantidad': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,73): warning C4101: 'precos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,46): warning C4101: 'marca': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(448,85): warning C4101: 'precven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(534,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(533,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(529,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\herramientas.h(528,37): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(417,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(416,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,76): warning C4101: 'NIT': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,47): warning C4101: 'direccion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,11): warning C4101: 'nombres': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,62): warning C4101: 'telefono': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\cliente.h(445,28): warning C4101: 'apellidos': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\validacion.h(514,28): warning C4101: 'contraseña': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\validacion.h(514,12): warning C4101: 'correo': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(851,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(848,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(870,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(869,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(866,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(865,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(863,44): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,26): warning C4101: 'cod_producto01': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,11): warning C4101: 'categoria': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(842,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(839,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(902,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(901,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(898,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(897,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(895,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,11): warning C4101: 'categoria': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,26): warning C4101: 'cod_producto02': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1025,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1024,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1021,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1020,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1018,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,26): warning C4101: 'cod_producto01': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,11): warning C4101: 'categoria': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1136,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1133,42): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(808,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(805,42): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(868,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(867,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(864,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(863,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(861,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,11): warning C4101: 'categoria': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,26): warning C4101: 'cod_producto03': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(808,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(805,42): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(868,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(867,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(864,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(863,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(861,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,26): warning C4101: 'cod_producto04': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,11): warning C4101: 'categoria': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(802,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(799,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(862,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(861,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(858,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(857,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(855,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,26): warning C4101: 'cod_producto05': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,11): warning C4101: 'categoria': variable local sin referencia
+  validacion.cpp
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\validacion.h(514,28): warning C4101: 'contraseña': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\validacion.h(514,12): warning C4101: 'correo': variable local sin referencia
+  ventas01.cpp
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(851,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(848,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(870,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(869,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(866,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(865,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(863,44): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,26): warning C4101: 'cod_producto01': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas01.h(941,11): warning C4101: 'categoria': variable local sin referencia
+  ventas02.cpp
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(842,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(839,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(902,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(901,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(898,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(897,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(895,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,11): warning C4101: 'categoria': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(926,26): warning C4101: 'cod_producto02': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1025,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1024,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1021,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1020,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1018,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,26): warning C4101: 'cod_producto01': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1096,11): warning C4101: 'categoria': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1136,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas02.h(1133,42): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  ventas03.cpp
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(808,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(805,42): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(868,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(867,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(864,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(863,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(861,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,11): warning C4101: 'categoria': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas03.h(892,26): warning C4101: 'cod_producto03': variable local sin referencia
+  ventas04.cpp
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(808,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(805,42): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(868,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(867,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(864,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(863,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(861,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,26): warning C4101: 'cod_producto04': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas04.h(942,11): warning C4101: 'categoria': variable local sin referencia
+  ventas05.cpp
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(802,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(799,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(862,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(861,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(858,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(857,19): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(855,43): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,46): warning C4101: 'cantidadven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,117): warning C4101: 'totalven': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,103): warning C4101: 'id_fecha': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,26): warning C4101: 'cod_producto05': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,67): warning C4101: 'descripcion': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,94): warning C4101: 'dpi': variable local sin referencia
+C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\ventas05.h(933,11): warning C4101: 'categoria': variable local sin referencia
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  accesorios.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  gestiondatos.vcxproj -> C:\Users\johnychiroy\Desktop\Nueva carpeta\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.exe
